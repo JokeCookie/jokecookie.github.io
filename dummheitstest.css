@@ -58,6 +58,7 @@ button {
     border: 2px solid #e22a8c;
     outline: none;
     cursor: pointer;
+    color: wheat;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
 }
 
